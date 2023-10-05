@@ -1,10 +1,7 @@
-<h1 align="center">I'm Muhammad Farhan KT</h1>
-<h3 align="center">A passionate GoLang developer  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/></h3>
+<h1 align="center">Hi 👋, I'm Muhammad Farhan KT</h1>
+<h3 align="center">A passionate Golang developer from India 
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/></h3>
 <img align="right" alt="golang" width="150" src="https://i.pinimg.com/originals/ff/0c/70/ff0c7036ec6ccc0eafc1021431b17e7f.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=muhammadfarhankt&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadfarhankt" />
-</p>
 
 🧠 I'm currently learning Microservices,Docker & Kubernetes 
 
@@ -49,3 +46,8 @@
   <li><a href="https://github.com/muhammadfarhankt/NFT_Arena" target="_blank">Project 1 : NFT Arena</a><br>: NFT Arena is a E-Commerce NFT Selling platform created using Node.js, Express.js, MongoDB, etc
 
 </li>
+</ul>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=muhammadfarhankt&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadfarhankt" />
+</p>
