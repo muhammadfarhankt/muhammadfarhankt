@@ -5,7 +5,7 @@
 
 🧠 I'm currently learning Microservices, Docker, CI-CD, Kubernetes, Testing, AWS, ... etc
 
-💬 Ask me about GO
+💬 Ask me about Golang, FTTH, Computer Networking
 
 📫 Reach me farhanlatheefkt@gmail.com
 
