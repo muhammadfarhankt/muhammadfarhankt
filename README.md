@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/></h3>
 <img align="right" alt="golang" width="150" src="https://i.pinimg.com/originals/ff/0c/70/ff0c7036ec6ccc0eafc1021431b17e7f.gif">
 
-🧠 I'm currently learning Microservices,Docker & Kubernetes 
+🧠 I'm currently learning Microservices, Docker, CI-CD, Kubernetes, Testing, AWS, ... etc
 
 💬 Ask me about GO
 
@@ -43,7 +43,7 @@
 
 <h3 align="left">Projects:</h3>
 <ul>
-  <li><a href="https://github.com/muhammadfarhankt/NFT_Arena" target="_blank">Project 1 : NFT Arena</a><br>: NFT Arena is a E-Commerce NFT Selling platform created using Node.js, Express.js, MongoDB, etc
+  <li><a href="https://github.com/muhammadfarhankt/NFT_Arena" target="_blank">Project 1 : NFT Arena</a><br>NFT Arena is a E-Commerce NFT Selling platform created using Node.js, Express.js, MongoDB, etc
 
 </li>
 </ul>
