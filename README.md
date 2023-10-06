@@ -7,8 +7,9 @@
 
 💬 Ask me about Golang, FTTH, Computer Networking
 
-📫 Reach me farhanlatheefkt@gmail.com
+🧑‍💻 I have two years of experience in IT Support Engineering, specializing in network administration and security.
 
+📫 Reach me farhanlatheefkt@gmail.com
 
 ## Connect with me  
 <div align="left">
