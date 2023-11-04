@@ -5,6 +5,8 @@
 
 🧠 I'm currently learning Microservices, Docker, CI-CD, Kubernetes, Testing, AWS, ... etc
 
+✨ I'm passionate about creating YouTube tutorials in Malayalam, tailored for absolute beginners, with a primary focus on C programming. (https://www.youtube.com/TechDoctorMalayalam)
+
 💬 Ask me about Golang, FTTH, Computer Networking
 
 🧑‍💻 I have two years of experience in IT Support Engineering and Computer Networks specializing in Optical Fiber Networks and Office Administration.
