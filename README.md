@@ -5,7 +5,7 @@
 
 🧠 I'm currently learning Microservices, Docker, CI-CD, Kubernetes, Testing, AWS, ... etc
 
-✨ I'm passionate about creating YouTube tutorials in Malayalam, tailored for absolute beginners, with a primary focus on C programming. (https://www.youtube.com/TechDoctorMalayalam)
+✨ I'm passionate about creating C programming tutorials in Malayalam, tailored for absolute beginners. (https://www.youtube.com/TechDoctorMalayalam)
 
 💬 Ask me about Golang, FTTH, Computer Networking
 
