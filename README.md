@@ -61,7 +61,7 @@
 </p>
 
 <hr>
+<h3 align="left">Leetcode Stats:</h3>
 <br>
-
   <img src="https://leetcard.jacoblin.cool/muhammadfarhankt?theme=dark&font=Roboto&ext=heatmap"/>
-  <br>
+<br>
