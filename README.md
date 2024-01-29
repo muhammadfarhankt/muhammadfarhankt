@@ -61,7 +61,14 @@
 </p>
 
 <hr>
-<h3 align="left">Leetcode Stats:</h3>
+<h3 align="left">📊 Leetcode Stats:</h3>
 <br>
   <img src="https://leetcard.jacoblin.cool/muhammadfarhankt?theme=dark&font=Roboto&ext=heatmap"/>
 <br>
+
+<hr>
+
+  <h3>📊 GitHub Stats:</h3>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaseen-kc&theme=dark&hide_border=false" /><br/>
+  <br>
