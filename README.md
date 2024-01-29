@@ -59,3 +59,9 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=muhammadfarhankt&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadfarhankt" />
 </p>
+
+<hr>
+<br>
+
+  <img src="https://leetcard.jacoblin.cool/muhammadfarhankt?theme=dark&font=Roboto&ext=heatmap"/>
+  <br>
