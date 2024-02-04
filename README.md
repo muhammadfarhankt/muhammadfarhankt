@@ -65,10 +65,3 @@
 <br>
   <img src="https://leetcard.jacoblin.cool/muhammadfarhankt?theme=light&font=Roboto&ext=heatmap"/>
 <br>
-
-<hr>
-
-  <h3>📊 GitHub Stats:</h3>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaseen-kc&theme=light&hide_border=false" /><br/>
-  <br>
