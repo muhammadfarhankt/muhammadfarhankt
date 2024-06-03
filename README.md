@@ -3,8 +3,6 @@
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/></h3>
 <img align="right" alt="golang" width="150" src="https://i.pinimg.com/originals/ff/0c/70/ff0c7036ec6ccc0eafc1021431b17e7f.gif">
 
-🧠 I'm currently learning Microservices, Docker, CI-CD, Kubernetes, Testing, AWS, ... etc
-
 ✨ I'm passionate about creating programming tutorials in Malayalam, tailored for beginners. https://www.youtube.com/TechDoctorMalayalam
 
 💬 Ask me about Golang, FTTH, Computer Networking
