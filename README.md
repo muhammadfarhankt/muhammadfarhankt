@@ -51,8 +51,15 @@
 
 <h3 align="left">Projects:</h3>
 <ul>
-  <li><a href="https://github.com/muhammadfarhankt/NFT_Arena" target="_blank">Project 1 : NFT Arena</a><br>NFT Arena is a E-Commerce NFT Selling platform created using Node.js, Express.js, MongoDB, etc
+  <li><a href="https://github.com/muhammadfarhankt/NFT_Arena" target="_blank">Project 1 : NFT Arena</a><br>NFT Arena is a E-Commerce NFT Selling platform created using Node.js, Express.js, MongoDB, etc Hosted on AWS EC2 and Razorpay as Payment Gateway.
 
+</li>
+<li>
+  <a href="https://github.com/muhammadfarhankt/NFT-Bidding-Platform" target="_blank">
+  Project 2 : NFT-Bidding-Platform
+  </a>
+  <br>
+NFT Bidding platform is user centric NFT Marketplace. Users can mint(Create), sell, buy & re-sell NFTs. Images are uploaded to Google Dev Bucket and Razorpay as the payment Gateway. Hosted on Google Kubernetes Engine (GKE) on Google Cloud.
 </li>
 </ul>
 
